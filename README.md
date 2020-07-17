@@ -5,3 +5,6 @@ The images that the app edits should be present in the folder /Pictures/Reddit (
 The edited images without tags are created in folder /Pictures/RedditTagRemover.
 
 Requires storage READ/WRITE permission.
+
+The video demonstration of the app: 
+https://youtu.be/87sXFIGMfTw
